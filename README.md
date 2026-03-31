@@ -1,6 +1,5 @@
 ﻿# WatchTogether
 The Watch Together WebApp is a real-time collaborative platform designed for users to create or join private rooms, chat with each other, and simultaneously watch YouTube videos.
-NEW_FILE_CODE
 # WatchTogether 🎬
 
 A real-time collaborative web application that brings people together to watch YouTube videos simultaneously while chatting with each other.
