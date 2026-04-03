@@ -110,11 +110,6 @@ nav ul li a:hover {
   transition: all 0.3s;
 }
 
-.load-button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-}
-
 .chat-section {
   flex: 1;
   display: flex;
