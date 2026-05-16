@@ -134,7 +134,7 @@ p {
 @keyframes modalFadeIn {
   from {
     opacity: 0;
-    transform: translateY(-20px);
+    transform: translateY(-15px);
   }
   to {
     opacity: 1;
@@ -166,10 +166,6 @@ p {
 
 .modal-content input::placeholder {
   color: rgba(255, 255, 255, 0.5);
-}
-
-.modal-content input.error {
-  border-color: #ff3860;
 }
 
 .error-message {
